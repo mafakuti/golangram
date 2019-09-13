@@ -1,5 +1,5 @@
-# go-instagram
-インスタグラムもどき課題のGo開発環境
+# golangram
+インスタグラムもどきのGo開発環境
 
 ## パッケージ構成
 - `view` ... [フロント画面](admin/README.md)
