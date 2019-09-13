@@ -1,0 +1,4 @@
+s3-data/*
+db-data/
+api/tmp/
+!.gitkeep
